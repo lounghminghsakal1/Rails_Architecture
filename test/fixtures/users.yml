@@ -1,0 +1,17 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  password_hash: MyString
+  role: 1
+  college: one
+  hostel: one
+  status: 1
+
+two:
+  name: MyString
+  password_hash: MyString
+  role: 1
+  college: two
+  hostel: two
+  status: 1
